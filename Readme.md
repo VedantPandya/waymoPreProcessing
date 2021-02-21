@@ -1,4 +1,3 @@
 
-Waymo Dataset Preprocessing on Training Segment - 1 (25GB)
-Vedant Pandya
+## Waymo Dataset Preprocessing on Training Segment - 1 (25GB)
 
